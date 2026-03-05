@@ -1,4 +1,4 @@
-After taking a sign language class, I want to create a sign language recognition system. Below is the reference code I have studied.
+After taking a sign language class, I wanted to create a sign language recognition system. Below is the reference code I have studied.
 
 Rock-Paper-Scissors-Machine An AI-based rock–paper–scissors game using MediaPipe and KNN. https://github.com/kairess/Rock-Paper-Scissors-Machine
 
